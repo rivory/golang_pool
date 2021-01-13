@@ -8,7 +8,7 @@ A name reminiscent of a full immersion, the Pool means that you will enter into 
 
 | allowed package  | allowed function |
 | ---------------- |------------------|
-| fmt              | fmt.print        |
+| non              | print            |
 
 Write a function that print the string "Hello World" on a single line. It must be prototyped as follows:
 
@@ -86,7 +86,7 @@ Write a function that swaps the content of two integers, whose addresses are giv
 
 Write a function that counts and returns the number of bytes in the string passed as parameter. It must be prototyped as follows: 
 
-`func myLen(v string)`
+`func myLen(v string) int`
 
 ### Task 05
 
