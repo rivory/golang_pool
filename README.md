@@ -16,11 +16,19 @@ Write a function that print the string "Hello World" on a single line. It must b
 
 ### Task 02
 
+| allowed package  | allowed function |
+| ---------------- |------------------|
+| non              | print            |
+
 Write a function that, beginning with a, displays the lowercase alphabet in ascending order, on a single line. It must be prototyped as follows:
 
 `func printAlphabet()`
 
 ### Task 03
+
+| allowed package  | allowed function |
+| ---------------- |------------------|
+| non              | print            |
 
 Write a function that, beginning with 1, displays all the digits in ascending order, on a single line. It must be prototyped as follows:
 
@@ -28,17 +36,29 @@ Write a function that, beginning with 1, displays all the digits in ascending or
 
 ### Task 04
 
+| allowed package  | allowed function |
+| ---------------- |------------------|
+| non              | print            |
+
 Write a function that displays either N if the the integer passed as paramaeter is negative, P, if positive or null. It must be prototyped as follows:
 
 `func isNeg(n int)`
 
 ### Task 05 
 
+| allowed package  | allowed function |
+| ---------------- |------------------|
+| non              | print            |
+
 Write a function that displays, in ascending order, all the numbers composed by three different digits numbers (012,013,014,015,016,017,018,019,023,...,789). Given three digits (all different), only the smallest number composed by those digits must be displayed. It must be prototyped as follows:
 
 `func printComb()`
 
 ### Task 06
+
+| allowed package  | allowed function |
+| ---------------- |------------------|
+| non              | print            |
 
 Write a function that displays, in ascending order, all the different combinations of two-digit numbers (00 01, 00 02, 00 03, 00 04, 00 05,...,01 99, 02 03,..., 98 99). It must be prototyped as follows:
 
