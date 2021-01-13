@@ -11,6 +11,7 @@ A name reminiscent of a full immersion, the Pool means that you will enter into 
 | fmt              | fmt.print        |
 
 Write a function that print the string "Hello World" on a single line. It must be prototyped as follows:
+
 `func printHelloWold()`
 
 ### Task 02
@@ -39,4 +40,22 @@ Write a function that displays, in ascending order, all the numbers composed by 
 
 ### Task 06
 
+Write a function that displays, in ascending order, all the different combinations of two-digit numbers (00 01, 00 02, 00 03, 00 04, 00 05,...,01 99, 02 03,..., 98 99). It must be prototyped as follows:
+
+`func printComb2()`
+
+
+## Chapter 02
+
+### Task 01
+
+Write a function that take a pointer on integer as parameter and give to the int the value 42. It must be prototyped as follows:
+
+`func ft(nbr *int)`
+
+### Task 02
+
+Write a function that a pointer on pointer on pointer on pointer on integer and give to the int the value 42. It must be prototyped as follows:
+
+`func ultimateFt(nbr ****int)`
 
