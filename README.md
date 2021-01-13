@@ -49,13 +49,39 @@ Write a function that displays, in ascending order, all the different combinatio
 
 ### Task 01
 
+| allowed package  | allowed function |
+| ---------------- |------------------|
+| none             | none             |
+
 Write a function that take a pointer on integer as parameter and give to the int the value 42. It must be prototyped as follows:
 
 `func ft(nbr *int)`
 
 ### Task 02
 
+| allowed package  | allowed function |
+| ---------------- |------------------|
+| none             | none             |
+
 Write a function that a pointer on pointer on pointer on pointer on integer and give to the int the value 42. It must be prototyped as follows:
 
 `func ultimateFt(nbr ****int)`
 
+### Task 03 
+
+| allowed package  | allowed function |
+| ---------------- |------------------|
+| none             | none             |
+
+Write a function that swaps the content of two integers, whose addresses are given as a parameter. It must be prototyped as follows:
+
+`func swap(a *int, b *int)`
+
+### Task 04
+
+| allowed package  | allowed function |
+| ---------------- |------------------|
+| none             | none             |
+
+
+Write a function that counts and returns the number of characters found in the string passed as parameter. It must be prototyped as follows: 
