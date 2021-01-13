@@ -84,4 +84,6 @@ Write a function that swaps the content of two integers, whose addresses are giv
 | none             | none             |
 
 
-Write a function that counts and returns the number of characters found in the string passed as parameter. It must be prototyped as follows: 
+Write a function that counts and returns the number of bytes in the string passed as parameter. It must be prototyped as follows: 
+
+`func myLen(v string)`
