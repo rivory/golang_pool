@@ -130,4 +130,8 @@ channels
 
 ## Chapter 05
 
+strconvs & strings
+
+## Chapter 06
+
 linked list
