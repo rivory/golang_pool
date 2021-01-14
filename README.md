@@ -108,7 +108,12 @@ Write a function that counts and returns the number of bytes in the string passe
 
 `func myLen(v string) int`
 
-### Task 05
+
+## Chapter 03 
+
+slices
+
+### Task XX
 
 | allowed package  | allowed function |
 | ---------------- |------------------|
@@ -120,18 +125,18 @@ Write a function that append elements to the end of a slice of string and return
 `func myAppend(slice []string, elems ...string) []string`
 
 
-## Chapter 03 
-
-struct
-
-## Chapter 04 
-
-channels
-
-## Chapter 05
+## Chapter 04
 
 strconvs & strings
 
+## Chapter 05
+
+struct
+
 ## Chapter 06
 
-linked list
+channels
+
+## Chapter 07
+
+micro services 
