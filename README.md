@@ -118,3 +118,16 @@ Write a function that counts and returns the number of bytes in the string passe
 Write a function that append elements to the end of a slice of string and returns the updated slice. It must be prototyped as follows: 
 
 `func myAppend(slice []string, elems ...string) []string`
+
+
+## Chapter 03 
+
+struct
+
+## Chapter 04 
+
+channels
+
+## Chapter 05
+
+linked list
